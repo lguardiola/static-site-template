@@ -9,7 +9,8 @@
 2. Create a Heroku application
 
     cd my_new_static_site
-    heroku apps:create static-site-template
+    
+    heroku apps:create my_new_static_site
 
 2. Install gems
 
