@@ -1,5 +1,12 @@
 # static-site-template
 
+## pre-requirements
+
+- you should have bundler and heroku gems, if not you can install it
+
+    gem install heroku bundler
+
+
 ## usage
 
 1. Clone this project
