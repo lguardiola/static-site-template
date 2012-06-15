@@ -30,7 +30,7 @@
 
       rackup[enter]
 
-      at this moment you can navigate localy http:localhost:9292/ to see you static site
+      at this moment you can navigate localy http://localhost:9292/ to see you static site
 
 6. add new files to the repository
 
