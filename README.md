@@ -4,7 +4,7 @@
 
 1. Clone this project
 
-    git://github.com/lguardiola/static-site-template.git my_new_static_site
+    git clone git://github.com/lguardiola/static-site-template.git my_new_static_site
 
 2. Unlink original github reference
 
