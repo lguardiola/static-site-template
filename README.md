@@ -9,6 +9,7 @@
 2. Unlink original github reference
 
     cd my_new_static_site
+
     git remote rm origin
 
 3. Create a Heroku application
